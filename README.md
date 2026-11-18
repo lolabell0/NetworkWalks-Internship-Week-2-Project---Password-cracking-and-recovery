@@ -125,13 +125,15 @@ The exercises showed me that using strong and complex passwords is an important 
 
 ### Using Online Hash Calculator and JTR
 
-![JTR Evidence 1](images/jtr-evidence-1.png)
-![JTR Evidence 2](images/jtr-evidence-2.png)
+<img width="960" height="460" alt="hash crack" src="https://github.com/user-attachments/assets/7c0a5189-06d8-43c5-865e-ece49e21ca7c" />
+<img width="1600" height="780" alt="WhatsApp Image 2026-11-18 at 17 27 58" src="https://github.com/user-attachments/assets/623b78ea-a126-4ce2-9d1a-e67f86feed67" />
+
+<img width="1600" height="780" alt="WhatsApp Image 2026-11-18 at 17 27 57" src="https://github.com/user-attachments/assets/f9e9782f-c681-4ecf-8e84-fc00388be869" />
 
 ### Using Networkwalks Tools
-
-![Networkwalks Evidence 1](images/networkwalks-evidence-1.png)
-![Networkwalks Evidence 2](images/networkwalks-evidence-2.png)
+<img width="957" height="517" alt="hash screenshot" src="https://github.com/user-attachments/assets/76adecac-fee9-474f-8d43-c540f807bada" />
+<img width="960" height="493" alt="NWpassword cracker" src="https://github.com/user-attachments/assets/c4ea2453-9eec-457d-9495-8c845e4669f0" />
+<img width="1600" height="780" alt="WhatsApp Image 2026-11-18 at 17 27 57 (1)" src="https://github.com/user-attachments/assets/aeb8ea9b-472f-4c4c-9cbe-9997d54743ec" />
 
 ---
 
